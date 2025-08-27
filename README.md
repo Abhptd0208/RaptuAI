@@ -1,7 +1,3 @@
-Got it. Here’s a clean, professional **README** draft for your SaaS app, written in human-friendly language, explaining everything clearly:
-
----
-
 # SaaS App – AI Powered Image and Content Platform
 
 This project is a full-stack SaaS application that integrates user authentication, file handling, cloud storage, database management, and AI-powered APIs. It allows users to sign up, log in, create content, upload and process images, and interact with AI-driven features.
