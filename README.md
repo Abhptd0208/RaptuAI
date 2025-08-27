@@ -1,4 +1,4 @@
-# RaptusAI – AI SaaS-powered Image and Content Web App
+# RaptusAI – AI SaaS-powered Web App
 This project is a full-stack SaaS application that integrates user authentication, file handling, cloud storage, database management, and AI-powered APIs. It allows users to sign up, log in, create content, upload and process images, and interact with AI-driven features.
 
 ---
